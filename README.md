@@ -9,7 +9,7 @@ PHPNuxBill Installation Shell Script, this script will guide you through the ins
 sudo apt-get install git
 ```
 ```
-sudo git clone https://github.com/Focuslinkstech/freeradius-config.git
+sudo git clone https://github.com/Samiul286/freeradius-config.git
 ```
 ```
 cd freeradius-config
@@ -21,7 +21,7 @@ sudo ./install.sh
 sudo apt-get install wget unzip
 ```
 ```
-wget https://github.com/Focuslinkstech/freeradius-config/archive/refs/heads/main.zip
+wget https://github.com/Samiul286/freeradius-config/archive/refs/heads/main.zip
 unzip *.zip
 ```
 ```
@@ -56,4 +56,3 @@ This shell script is tested successfully on
 - **Ubuntu 20.04  LTS**
 - **Ubuntu 18.04  LTS**
 - **Debian 10, 11, 12**
-
