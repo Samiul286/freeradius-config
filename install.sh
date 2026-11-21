@@ -188,7 +188,7 @@ case $n in
     # Install PHPNuxBill
     echo "Installing PHPNuxBill..."
     sleep 2
-    git clone https://github.com/hotspotbilling/phpnuxbill.git
+    git clone https://github.com/Samiul286/phpnuxbill.git
     sudo mv phpnuxbill /var/www/html/
     sudo chown -R www-data:www-data /var/www/html/phpnuxbill
     sudo chmod -R 755 /var/www/html/phpnuxbill
@@ -262,7 +262,7 @@ case $n in
     echo ">>> Installing PHPNuxBill <<<"
     sleep 2
     sudo apt-get install -y git
-    git clone https://github.com/hotspotbilling/phpnuxbill.git
+    git clone https://github.com/Samiul286/phpnuxbill.git
     sudo mv phpnuxbill /var/www/html/
     sudo chown -R www-data:www-data /var/www/html/phpnuxbill
     sudo chmod -R 755 /var/www/html/phpnuxbill
